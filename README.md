@@ -13,7 +13,7 @@ A minimal, production-ready starter for email/password authentication using Reac
 
 ## Quick demo
 
-- Signup flow sends email verification: see [`sendVerificationEmail`](src/component/Resister/Resister.tsx).
+- Sign up flow sends email verification: see [`sendVerificationEmail`](src/component/Resister/Resister.tsx).
 - Update user's display name after registration: see [`updateUserData`](src/component/Resister/Resister.tsx).
 - Reset password flow from login: see [`handleResetPassword`](src/component/Login/Login.tsx).
 
