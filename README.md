@@ -78,7 +78,11 @@ npm install
 ```
 
 2. **Run dev server:**
+
+```bash
    npm run dev
+
+```
 
 ### Available scripts
 
