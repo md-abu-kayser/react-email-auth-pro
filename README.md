@@ -138,7 +138,7 @@ update profile: updateProfile
 ### Contact and Maintainer
 
 - **_Name:_** Md Abu Kayser - Full-Stack Engineer
-- **_Project:_** EmailAuthPro-React-and-Firebase-Starter\_
+- **_Project:_** _react-email-auth-pro_
 - **_Maintainer:_** [md-abu-kayser](https://github.com/md-abu-kayser)
 - **_GitHub:_** [github.com/abu.kayser-official](https://github.com/md-abu-kayser)
 - **_Email:_** [abu.kayser.official@gmail.com](mailto:abu.kayser.official@gmail.com)
