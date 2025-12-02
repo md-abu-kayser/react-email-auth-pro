@@ -1,5 +1,5 @@
 {
-  "name": "email-password-auth",
+  "name": "react-email-auth-pro",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -43,13 +43,13 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kawser420/email-password-auth.git"
+    "url": "git+https://github.com/md-abu-kayser/react-email-auth-pro.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Kawser420/email-password-auth/issues"
+    "url": "https://github.com/md-abu-kayser/react-email-auth-pro/issues"
   },
-  "homepage": "https://github.com/Kawser420/email-password-auth#readme"
+  "homepage": "https://github.com/md-abu-kayser/react-email-auth-pro#readme"
 }

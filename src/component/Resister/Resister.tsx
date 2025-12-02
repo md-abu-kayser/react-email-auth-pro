@@ -29,7 +29,7 @@ const Register: React.FC = () => {
       .value;
     const name = (form.elements.namedItem("name") as HTMLInputElement).value;
 
-    // Validate password
+    // Validate Password
     if (!/(?=.*[A-Z])/.test(password)) {
       setState({ ...state, error: "Please add at least one uppercase letter" });
       return;
